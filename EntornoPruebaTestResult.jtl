@@ -4804,4 +4804,1205 @@
   <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
 </httpSample>
 
+<httpSample t="1366" it="0" lt="1361" ct="1" ts="1606747525320" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-5" dt="text" by="591" sby="160" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="970" it="0" lt="966" ct="4" ts="1606747525716" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-7" dt="text" by="591" sby="160" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="1884" it="0" lt="1880" ct="92" ts="1606747524802" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-2" dt="text" by="591" sby="160" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="1170" it="0" lt="1165" ct="0" ts="1606747525516" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-6" dt="text" by="591" sby="160" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="1564" it="0" lt="1561" ct="1" ts="1606747525122" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-4" dt="text" by="591" sby="160" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="1883" it="0" lt="1880" ct="92" ts="1606747524803" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-1" dt="text" by="591" sby="160" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="376" it="0" lt="373" ct="1" ts="1606747526310" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-10" dt="text" by="591" sby="160" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="774" it="0" lt="771" ct="1" ts="1606747525912" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-8" dt="text" by="591" sby="160" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="1760" it="0" lt="1757" ct="2" ts="1606747524926" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-3" dt="text" by="591" sby="160" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="568" it="0" lt="563" ct="1" ts="1606747526118" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-9" dt="text" by="591" sby="160" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="191" it="0" lt="191" ct="0" ts="1606747526706" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-3" dt="text" by="205" sby="208" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="195" it="0" lt="195" ct="0" ts="1606747526705" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-8" dt="text" by="205" sby="208" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="197" it="0" lt="197" ct="0" ts="1606747526705" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-10" dt="text" by="205" sby="208" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="202" it="0" lt="202" ct="0" ts="1606747526702" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-7" dt="text" by="206" sby="208" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="200" it="0" lt="200" ct="0" ts="1606747526705" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-4" dt="text" by="205" sby="208" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="200" it="0" lt="200" ct="0" ts="1606747526704" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-6" dt="text" by="206" sby="208" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="200" it="0" lt="200" ct="0" ts="1606747526706" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-9" dt="text" by="206" sby="208" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="201" it="0" lt="201" ct="0" ts="1606747526710" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-5" dt="text" by="205" sby="208" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="212" it="0" lt="212" ct="0" ts="1606747526704" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-1" dt="text" by="205" sby="208" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="251" it="0" lt="251" ct="0" ts="1606747526704" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-2" dt="text" by="205" sby="208" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="109" it="0" lt="109" ct="0" ts="1606747526898" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-3" dt="text" by="213" sby="216" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="115" it="0" lt="115" ct="0" ts="1606747526905" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-7" dt="text" by="213" sby="216" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="134" it="0" lt="134" ct="0" ts="1606747526903" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-10" dt="text" by="213" sby="216" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="130" it="0" lt="130" ct="0" ts="1606747526908" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-9" dt="text" by="213" sby="216" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="140" it="0" lt="140" ct="0" ts="1606747526917" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-1" dt="text" by="213" sby="216" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="157" it="0" lt="157" ct="0" ts="1606747526906" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-6" dt="text" by="213" sby="216" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="164" it="0" lt="164" ct="0" ts="1606747526906" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-4" dt="text" by="213" sby="216" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="179" it="0" lt="179" ct="0" ts="1606747526901" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-8" dt="text" by="213" sby="216" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="186" it="0" lt="186" ct="0" ts="1606747526912" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-5" dt="text" by="213" sby="216" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="149" it="0" lt="149" ct="0" ts="1606747526956" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-2" dt="text" by="213" sby="216" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="101" it="0" lt="101" ct="0" ts="1606747527071" s="true" lb="Delete Empleado" rc="200" rm="" tn="Usuarios 1-4" dt="" by="119" sby="184" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="269" it="0" lt="268" ct="0" ts="1606747527105" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-2" dt="text" by="296" sby="184" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="341" it="0" lt="341" ct="0" ts="1606747527039" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-9" dt="text" by="296" sby="184" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="283" it="0" lt="283" ct="0" ts="1606747527099" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-5" dt="text" by="296" sby="184" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="367" it="0" lt="367" ct="0" ts="1606747527021" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-7" dt="text" by="296" sby="184" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="361" it="0" lt="361" ct="0" ts="1606747527038" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-10" dt="text" by="296" sby="184" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="343" it="0" lt="343" ct="0" ts="1606747527058" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-1" dt="text" by="296" sby="184" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="334" it="0" lt="334" ct="0" ts="1606747527081" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-8" dt="text" by="296" sby="184" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="359" it="0" lt="359" ct="0" ts="1606747527063" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-6" dt="text" by="296" sby="184" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="414" it="0" lt="414" ct="0" ts="1606747527008" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-3" dt="text" by="296" sby="184" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="74" it="0" lt="74" ct="0" ts="1606747527381" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-9" dt="text" by="3504" sby="160" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="24" it="0" lt="24" ct="0" ts="1606747527456" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-9" dt="text" by="206" sby="208" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="330" it="0" lt="330" ct="0" ts="1606747527173" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-4" dt="text" by="3504" sby="160" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="130" it="0" lt="130" ct="0" ts="1606747527375" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-2" dt="text" by="3504" sby="160" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="27" it="0" lt="27" ct="0" ts="1606747527504" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-4" dt="text" by="206" sby="208" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="57" it="0" lt="57" ct="0" ts="1606747527480" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-9" dt="text" by="213" sby="216" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="35" it="0" lt="34" ct="0" ts="1606747527506" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-2" dt="text" by="206" sby="208" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="38" it="0" lt="38" ct="0" ts="1606747527541" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-2" dt="text" by="213" sby="216" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="82" it="0" lt="82" ct="0" ts="1606747527532" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-4" dt="text" by="213" sby="216" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="85" it="0" lt="85" ct="0" ts="1606747527537" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-9" dt="text" by="296" sby="184" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="63" it="0" lt="63" ct="0" ts="1606747527579" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-2" dt="text" by="296" sby="184" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="255" it="0" lt="255" ct="0" ts="1606747527400" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-10" dt="text" by="3504" sby="160" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="241" it="0" lt="241" ct="0" ts="1606747527416" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-8" dt="text" by="3504" sby="160" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="289" it="0" lt="289" ct="0" ts="1606747527383" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-5" dt="text" by="3504" sby="160" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="18" it="0" lt="18" ct="0" ts="1606747527656" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-10" dt="text" by="206" sby="208" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="68" it="0" lt="68" ct="0" ts="1606747527615" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-4" dt="text" by="296" sby="184" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="20" it="0" lt="20" ct="0" ts="1606747527674" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-10" dt="text" by="213" sby="216" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="329" it="0" lt="329" ct="0" ts="1606747527388" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-7" dt="text" by="3504" sby="160" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="45" it="0" lt="45" ct="0" ts="1606747527673" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-5" dt="text" by="206" sby="208" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="323" it="0" lt="322" ct="0" ts="1606747527402" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-1" dt="text" by="3504" sby="160" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="303" it="0" lt="302" ct="0" ts="1606747527423" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-3" dt="text" by="3504" sby="160" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="306" it="0" lt="306" ct="0" ts="1606747527423" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-6" dt="text" by="3504" sby="160" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="32" it="0" lt="32" ct="0" ts="1606747527717" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-7" dt="text" by="206" sby="208" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="96" it="0" lt="96" ct="0" ts="1606747527658" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-8" dt="text" by="206" sby="208" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="28" it="0" lt="28" ct="0" ts="1606747527726" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-3" dt="text" by="206" sby="208" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="37" it="0" lt="37" ct="0" ts="1606747527725" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-1" dt="text" by="206" sby="208" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="54" it="0" lt="54" ct="0" ts="1606747527719" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-5" dt="text" by="213" sby="216" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="80" it="0" lt="80" ct="0" ts="1606747527694" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-10" dt="text" by="296" sby="184" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="43" it="0" lt="43" ct="0" ts="1606747527763" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-1" dt="text" by="213" sby="216" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="51" it="0" lt="50" ct="0" ts="1606747527756" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-3" dt="text" by="213" sby="216" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="82" it="0" lt="82" ct="0" ts="1606747527750" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-7" dt="text" by="213" sby="216" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="80" it="0" lt="80" ct="0" ts="1606747527754" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-8" dt="text" by="213" sby="216" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="128" it="0" lt="128" ct="0" ts="1606747527729" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-6" dt="text" by="206" sby="208" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="227" it="0" lt="227" ct="0" ts="1606747527643" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-2" dt="text" by="4438" sby="160" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="101" it="0" lt="101" ct="0" ts="1606747527774" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-5" dt="text" by="296" sby="184" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="73" it="0" lt="73" ct="0" ts="1606747527807" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-3" dt="text" by="296" sby="184" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="88" it="0" lt="88" ct="0" ts="1606747527807" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-1" dt="text" by="296" sby="184" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="67" it="0" lt="67" ct="0" ts="1606747527833" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-7" dt="text" by="296" sby="184" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="31" it="0" lt="31" ct="0" ts="1606747527871" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-2" dt="text" by="206" sby="208" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="77" it="0" lt="77" ct="0" ts="1606747527835" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-8" dt="text" by="296" sby="184" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="99" it="0" lt="99" ct="0" ts="1606747527858" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-6" dt="text" by="213" sby="216" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="274" it="0" lt="261" ct="0" ts="1606747527684" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-4" dt="text" by="4747" sby="160" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="57" it="0" lt="57" ct="0" ts="1606747527903" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-2" dt="text" by="213" sby="216" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="39" it="0" lt="39" ct="0" ts="1606747527960" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-2" dt="text" by="296" sby="184" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="418" it="0" lt="417" ct="0" ts="1606747527622" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-9" dt="text" by="4438" sby="160" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="87" it="0" lt="87" ct="0" ts="1606747527959" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-4" dt="text" by="206" sby="208" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="102" it="0" lt="102" ct="0" ts="1606747527957" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-6" dt="text" by="296" sby="184" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="26" it="0" lt="26" ct="0" ts="1606747528041" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-9" dt="text" by="206" sby="208" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="24" it="0" lt="24" ct="0" ts="1606747528046" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-4" dt="text" by="213" sby="216" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="32" it="0" lt="32" ct="0" ts="1606747528067" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-9" dt="text" by="213" sby="216" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="343" it="0" lt="339" ct="0" ts="1606747527775" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-10" dt="text" by="5818" sby="160" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="226" it="0" lt="221" ct="0" ts="1606747527895" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-1" dt="text" by="6594" sby="160" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="11" it="0" lt="10" ct="0" ts="1606747528118" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-10" dt="text" by="206" sby="208" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="61" it="0" lt="61" ct="0" ts="1606747528071" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-4" dt="text" by="296" sby="184" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="51" it="0" lt="51" ct="0" ts="1606747528121" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-1" dt="text" by="206" sby="208" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="296" it="0" lt="296" ct="0" ts="1606747527876" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-5" dt="text" by="6588" sby="160" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="74" it="0" lt="74" ct="0" ts="1606747528099" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-9" dt="text" by="296" sby="184" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="79" it="0" lt="79" ct="0" ts="1606747528129" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-10" dt="text" by="213" sby="216" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="328" it="0" lt="269" ct="0" ts="1606747527881" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-3" dt="text" by="6594" sby="160" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="35" it="0" lt="35" ct="0" ts="1606747528173" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-5" dt="text" by="206" sby="208" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="310" it="0" lt="254" ct="0" ts="1606747527900" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-7" dt="text" by="6594" sby="160" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="314" it="0" lt="298" ct="0" ts="1606747527912" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-8" dt="text" by="6594" sby="160" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="66" it="0" lt="66" ct="0" ts="1606747528173" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-1" dt="text" by="213" sby="216" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="34" it="0" lt="34" ct="0" ts="1606747528210" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-5" dt="text" by="213" sby="216" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="45" it="0" lt="45" ct="0" ts="1606747528209" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-3" dt="text" by="206" sby="208" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="79" it="0" lt="79" ct="0" ts="1606747528210" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-7" dt="text" by="206" sby="208" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="81" it="0" lt="81" ct="0" ts="1606747528209" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-10" dt="text" by="296" sby="184" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="55" it="0" lt="55" ct="0" ts="1606747528254" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-3" dt="text" by="213" sby="216" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="184" it="0" lt="183" ct="0" ts="1606747528133" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-4" dt="text" by="7830" sby="160" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="81" it="0" lt="81" ct="0" ts="1606747528240" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-1" dt="text" by="296" sby="184" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="12" it="0" lt="11" ct="0" ts="1606747528317" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-4" dt="text" by="206" sby="208" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="88" it="0" lt="88" ct="0" ts="1606747528245" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-5" dt="text" by="296" sby="184" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="109" it="0" lt="109" ct="0" ts="1606747528226" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-8" dt="text" by="206" sby="208" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="69" it="0" lt="69" ct="0" ts="1606747528289" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-7" dt="text" by="213" sby="216" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="63" it="0" lt="63" ct="0" ts="1606747528310" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-3" dt="text" by="296" sby="184" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="385" it="0" lt="368" ct="0" ts="1606747527999" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-2" dt="text" by="6910" sby="160" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="60" it="0" lt="60" ct="0" ts="1606747528329" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-4" dt="text" by="213" sby="216" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="9" it="0" lt="9" ct="0" ts="1606747528385" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-2" dt="text" by="206" sby="208" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="55" it="0" lt="55" ct="0" ts="1606747528359" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-7" dt="text" by="296" sby="184" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="97" it="0" lt="97" ct="0" ts="1606747528336" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-8" dt="text" by="213" sby="216" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="378" it="0" lt="373" ct="0" ts="1606747528059" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-6" dt="text" by="7370" sby="160" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="20" it="0" lt="20" ct="0" ts="1606747528438" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-6" dt="text" by="206" sby="208" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="48" it="0" lt="48" ct="0" ts="1606747528434" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-8" dt="text" by="296" sby="184" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="43" it="0" lt="43" ct="0" ts="1606747528459" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-6" dt="text" by="213" sby="216" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="124" it="0" lt="124" ct="0" ts="1606747528390" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-4" dt="text" by="296" sby="184" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="122" it="0" lt="122" ct="0" ts="1606747528394" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-2" dt="text" by="213" sby="216" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="354" it="0" lt="341" ct="0" ts="1606747528173" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-9" dt="text" by="7830" sby="160" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="27" it="0" lt="27" ct="0" ts="1606747528503" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-6" dt="text" by="296" sby="184" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="23" it="0" lt="23" ct="0" ts="1606747528528" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-9" dt="text" by="206" sby="208" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="51" it="0" lt="51" ct="0" ts="1606747528516" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-2" dt="text" by="296" sby="184" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="19" it="0" lt="19" ct="0" ts="1606747528551" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-9" dt="text" by="213" sby="216" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="60" it="0" lt="60" ct="0" ts="1606747528571" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-9" dt="text" by="296" sby="184" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="400" it="0" lt="399" ct="0" ts="1606747528290" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-10" dt="text" by="9067" sby="160" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="371" it="0" lt="366" ct="0" ts="1606747528321" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-1" dt="text" by="9218" sby="160" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="16" it="0" lt="16" ct="0" ts="1606747528690" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-10" dt="text" by="206" sby="208" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="33" it="0" lt="33" ct="0" ts="1606747528693" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-1" dt="text" by="206" sby="208" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="25" it="0" lt="25" ct="0" ts="1606747528706" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-10" dt="text" by="213" sby="216" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="357" it="0" lt="346" ct="0" ts="1606747528414" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-7" dt="text" by="9843" sby="160" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="400" it="0" lt="399" ct="0" ts="1606747528374" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-3" dt="text" by="9843" sby="160" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="23" it="0" lt="23" ct="0" ts="1606747528771" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-7" dt="text" by="206" sby="208" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="100" it="0" lt="99" ct="0" ts="1606747528731" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-10" dt="text" by="296" sby="184" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="500" it="0" lt="487" ct="0" ts="1606747528333" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-5" dt="text" by="9376" sby="160" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="43" it="0" lt="43" ct="0" ts="1606747528795" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-7" dt="text" by="213" sby="216" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="64" it="0" lt="64" ct="0" ts="1606747528775" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-3" dt="text" by="206" sby="208" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="112" it="0" lt="112" ct="0" ts="1606747528727" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-1" dt="text" by="213" sby="216" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="24" it="0" lt="24" ct="0" ts="1606747528833" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-5" dt="text" by="206" sby="208" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="33" it="0" lt="33" ct="0" ts="1606747528840" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-3" dt="text" by="213" sby="216" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="21" it="0" lt="21" ct="0" ts="1606747528857" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-5" dt="text" by="213" sby="216" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="47" it="0" lt="46" ct="0" ts="1606747528840" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-1" dt="text" by="296" sby="184" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="81" it="0" lt="81" ct="0" ts="1606747528838" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-7" dt="text" by="296" sby="184" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="420" it="0" lt="416" ct="0" ts="1606747528515" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-4" dt="text" by="10310" sby="160" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="411" it="0" lt="395" ct="0" ts="1606747528531" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-6" dt="text" by="10461" sby="160" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="461" it="0" lt="454" ct="0" ts="1606747528483" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-8" dt="text" by="10310" sby="160" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="21" it="0" lt="21" ct="0" ts="1606747528935" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-4" dt="text" by="206" sby="208" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="18" it="0" lt="18" ct="0" ts="1606747528942" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-6" dt="text" by="206" sby="208" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="101" it="0" lt="101" ct="0" ts="1606747528873" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-3" dt="text" by="296" sby="184" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="102" it="0" lt="102" ct="0" ts="1606747528879" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-5" dt="text" by="296" sby="184" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="37" it="0" lt="37" ct="0" ts="1606747528945" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-8" dt="text" by="206" sby="208" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="43" it="0" lt="43" ct="0" ts="1606747528957" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-4" dt="text" by="213" sby="216" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="26" it="0" lt="25" ct="0" ts="1606747528983" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-8" dt="text" by="213" sby="216" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="445" it="0" lt="440" ct="0" ts="1606747528567" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-2" dt="text" by="10619" sby="160" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="61" it="0" lt="61" ct="0" ts="1606747528961" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-6" dt="text" by="213" sby="216" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="43" it="0" lt="43" ct="0" ts="1606747529009" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-8" dt="text" by="296" sby="184" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="42" it="0" lt="42" ct="0" ts="1606747529013" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-2" dt="text" by="206" sby="208" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="57" it="0" lt="57" ct="0" ts="1606747529000" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-4" dt="text" by="296" sby="184" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="21" it="0" lt="21" ct="0" ts="1606747529055" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-2" dt="text" by="213" sby="216" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="80" it="0" lt="80" ct="0" ts="1606747529023" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-6" dt="text" by="296" sby="184" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="501" it="0" lt="488" ct="0" ts="1606747528632" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-9" dt="text" by="10619" sby="160" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="69" it="0" lt="69" ct="0" ts="1606747529076" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-2" dt="text" by="296" sby="184" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="17" it="0" lt="17" ct="0" ts="1606747529133" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-9" dt="text" by="206" sby="208" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="52" it="0" lt="52" ct="0" ts="1606747529150" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-9" dt="text" by="213" sby="216" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="383" it="0" lt="382" ct="0" ts="1606747528831" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-10" dt="text" by="11539" sby="160" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="321" it="0" lt="313" ct="0" ts="1606747528919" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-7" dt="text" by="12164" sby="160" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="33" it="0" lt="33" ct="0" ts="1606747529215" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-10" dt="text" by="206" sby="208" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="58" it="0" lt="58" ct="0" ts="1606747529202" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-9" dt="text" by="296" sby="184" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="42" it="0" lt="42" ct="0" ts="1606747529241" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-7" dt="text" by="206" sby="208" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="37" it="0" lt="36" ct="0" ts="1606747529249" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-10" dt="text" by="213" sby="216" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="406" it="0" lt="370" ct="0" ts="1606747528887" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-1" dt="text" by="12164" sby="160" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="42" it="0" lt="42" ct="0" ts="1606747529283" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-7" dt="text" by="213" sby="216" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="34" it="0" lt="34" ct="0" ts="1606747529293" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-1" dt="text" by="206" sby="208" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="54" it="0" lt="54" ct="0" ts="1606747529286" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-10" dt="text" by="296" sby="184" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="369" it="0" lt="366" ct="0" ts="1606747528981" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-5" dt="text" by="12941" sby="160" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="27" it="0" lt="27" ct="0" ts="1606747529327" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-1" dt="text" by="213" sby="216" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="300" it="0" lt="300" ct="0" ts="1606747529058" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-4" dt="text" by="13393" sby="160" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="391" it="0" lt="391" ct="0" ts="1606747528975" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-3" dt="text" by="12783" sby="160" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="36" it="0" lt="36" ct="0" ts="1606747529350" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-5" dt="text" by="206" sby="208" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="61" it="0" lt="61" ct="0" ts="1606747529326" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-7" dt="text" by="296" sby="184" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="290" it="0" lt="283" ct="0" ts="1606747529104" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-6" dt="text" by="13408" sby="160" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="32" it="0" lt="32" ct="0" ts="1606747529367" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-3" dt="text" by="206" sby="208" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="48" it="0" lt="48" ct="0" ts="1606747529355" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-1" dt="text" by="296" sby="184" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="28" it="0" lt="28" ct="0" ts="1606747529387" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-5" dt="text" by="213" sby="216" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="34" it="0" lt="34" ct="0" ts="1606747529395" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-6" dt="text" by="206" sby="208" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="17" it="0" lt="17" ct="0" ts="1606747529429" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-6" dt="text" by="214" sby="216" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="98" it="0" lt="98" ct="0" ts="1606747529359" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-4" dt="text" by="206" sby="208" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="63" it="0" lt="63" ct="0" ts="1606747529399" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-3" dt="text" by="214" sby="216" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="417" it="0" lt="401" ct="0" ts="1606747529053" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-8" dt="text" by="13250" sby="160" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="325" it="0" lt="308" ct="0" ts="1606747529146" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-2" dt="text" by="13559" sby="160" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="24" it="0" lt="24" ct="0" ts="1606747529447" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-6" dt="text" by="296" sby="184" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="256" it="0" lt="254" ct="0" ts="1606747529260" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-9" dt="text" by="14026" sby="160" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="45" it="0" lt="45" ct="0" ts="1606747529472" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-2" dt="text" by="207" sby="208" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="47" it="0" lt="47" ct="0" ts="1606747529471" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-8" dt="text" by="207" sby="208" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="117" it="0" lt="117" ct="0" ts="1606747529416" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-5" dt="text" by="296" sby="184" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="77" it="0" lt="77" ct="0" ts="1606747529458" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-4" dt="text" by="214" sby="216" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="79" it="0" lt="79" ct="0" ts="1606747529463" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-3" dt="text" by="296" sby="184" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="35" it="0" lt="35" ct="0" ts="1606747529519" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-8" dt="text" by="214" sby="216" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="39" it="0" lt="39" ct="0" ts="1606747529518" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-2" dt="text" by="214" sby="216" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="57" it="0" lt="57" ct="0" ts="1606747529516" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-9" dt="text" by="207" sby="208" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="40" it="0" lt="40" ct="0" ts="1606747529554" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-8" dt="text" by="296" sby="184" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="41" it="0" lt="41" ct="0" ts="1606747529558" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-2" dt="text" by="296" sby="184" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="46" it="0" lt="46" ct="0" ts="1606747529574" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-9" dt="text" by="214" sby="216" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="232" it="0" lt="216" ct="0" ts="1606747529388" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-7" dt="text" by="14946" sby="160" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="88" it="0" lt="88" ct="0" ts="1606747529536" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-4" dt="text" by="296" sby="184" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="306" it="0" lt="302" ct="0" ts="1606747529341" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-10" dt="text" by="14795" sby="160" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="37" it="0" lt="36" ct="0" ts="1606747529621" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-7" dt="text" by="207" sby="208" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="19" it="0" lt="19" ct="0" ts="1606747529647" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-10" dt="text" by="207" sby="208" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="82" it="0" lt="82" ct="0" ts="1606747529621" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-9" dt="text" by="296" sby="184" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="51" it="0" lt="51" ct="0" ts="1606747529658" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-7" dt="text" by="214" sby="216" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="68" it="0" lt="68" ct="0" ts="1606747529666" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-10" dt="text" by="214" sby="216" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="42" it="0" lt="42" ct="0" ts="1606747529714" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-7" dt="text" by="296" sby="184" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="149" it="0" lt="148" ct="0" ts="1606747529703" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-9" dt="text" by="17451" sby="160" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="459" it="0" lt="370" ct="0" ts="1606747529403" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-1" dt="text" by="15406" sby="160" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="143" it="0" lt="143" ct="0" ts="1606747529735" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-10" dt="text" by="296" sby="184" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="28" it="0" lt="28" ct="0" ts="1606747529862" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-1" dt="text" by="207" sby="208" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="427" it="0" lt="402" ct="0" ts="1606747529472" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-6" dt="text" by="16192" sby="160" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="50" it="0" lt="50" ct="0" ts="1606747529852" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-9" dt="text" by="207" sby="208" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="25" it="0" lt="24" ct="0" ts="1606747529899" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-6" dt="text" by="207" sby="208" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="330" it="0" lt="318" ct="0" ts="1606747529595" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-8" dt="text" by="16825" sby="160" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="306" it="0" lt="286" ct="0" ts="1606747529624" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-4" dt="text" by="16978" sby="160" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="388" it="0" lt="380" ct="0" ts="1606747529543" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-3" dt="text" by="16664" sby="160" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="404" it="0" lt="384" ct="0" ts="1606747529534" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-5" dt="text" by="16504" sby="160" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="9" it="0" lt="9" ct="0" ts="1606747529930" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-4" dt="text" by="207" sby="208" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="7" it="0" lt="7" ct="0" ts="1606747529932" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-3" dt="text" by="207" sby="208" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="42" it="0" lt="42" ct="0" ts="1606747529902" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-9" dt="text" by="214" sby="216" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="60" it="0" lt="60" ct="0" ts="1606747529890" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-1" dt="text" by="214" sby="216" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="28" it="0" lt="28" ct="0" ts="1606747529924" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-6" dt="text" by="214" sby="216" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="353" it="0" lt="348" ct="0" ts="1606747529600" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-2" dt="text" by="16825" sby="160" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="36" it="0" lt="36" ct="0" ts="1606747529926" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-8" dt="text" by="207" sby="208" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="32" it="0" lt="32" ct="0" ts="1606747529938" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-5" dt="text" by="207" sby="208" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="32" it="0" lt="32" ct="0" ts="1606747529939" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-4" dt="text" by="214" sby="216" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="34" it="0" lt="34" ct="0" ts="1606747529940" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-3" dt="text" by="214" sby="216" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="30" it="0" lt="30" ct="0" ts="1606747529952" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-6" dt="text" by="296" sby="184" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="225" it="0" lt="204" ct="0" ts="1606747529757" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-7" dt="text" by="17451" sby="160" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="13" it="0" lt="13" ct="0" ts="1606747529970" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-5" dt="text" by="214" sby="216" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="31" it="0" lt="31" ct="0" ts="1606747529953" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-2" dt="text" by="207" sby="208" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="41" it="0" lt="41" ct="0" ts="1606747529945" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-9" dt="text" by="296" sby="184" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="31" it="0" lt="31" ct="0" ts="1606747529963" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-8" dt="text" by="214" sby="216" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="24" it="0" lt="23" ct="0" ts="1606747529972" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-4" dt="text" by="296" sby="184" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="27" it="0" lt="27" ct="0" ts="1606747529974" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-3" dt="text" by="296" sby="184" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="24" it="0" lt="24" ct="0" ts="1606747529983" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-7" dt="text" by="207" sby="208" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="59" it="0" lt="59" ct="0" ts="1606747529950" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-1" dt="text" by="296" sby="184" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="29" it="0" lt="29" ct="0" ts="1606747529985" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-2" dt="text" by="214" sby="216" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="45" it="0" lt="44" ct="0" ts="1606747529984" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-5" dt="text" by="296" sby="184" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="26" it="0" lt="26" ct="0" ts="1606747530008" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-7" dt="text" by="214" sby="216" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="20" it="0" lt="20" ct="0" ts="1606747530035" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-7" dt="text" by="296" sby="184" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="83" it="0" lt="83" ct="0" ts="1606747529995" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-8" dt="text" by="296" sby="184" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="84" it="0" lt="84" ct="0" ts="1606747530014" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-2" dt="text" by="296" sby="184" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="279" it="0" lt="258" ct="0" ts="1606747529879" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-10" dt="text" by="17750" sby="160" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="8" it="0" lt="8" ct="0" ts="1606747530159" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-10" dt="text" by="207" sby="208" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="243" it="0" lt="186" ct="0" ts="1606747529996" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-4" dt="text" by="20268" sby="160" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="74" it="0" lt="74" ct="0" ts="1606747530167" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-10" dt="text" by="214" sby="216" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="33" it="0" lt="33" ct="0" ts="1606747530240" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-4" dt="text" by="207" sby="208" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="299" it="0" lt="231" ct="0" ts="1606747529987" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-9" dt="text" by="19948" sby="160" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="29" it="0" lt="29" ct="0" ts="1606747530273" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-4" dt="text" by="214" sby="216" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="27" it="0" lt="27" ct="0" ts="1606747530286" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-9" dt="text" by="207" sby="208" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="303" it="0" lt="205" ct="0" ts="1606747530029" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-5" dt="text" by="20268" sby="160" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="92" it="0" lt="92" ct="0" ts="1606747530241" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-10" dt="text" by="296" sby="184" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="356" it="0" lt="252" ct="0" ts="1606747529982" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-6" dt="text" by="19948" sby="160" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="38" it="0" lt="38" ct="0" ts="1606747530303" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-4" dt="text" by="296" sby="184" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="306" it="0" lt="275" ct="0" ts="1606747530041" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-3" dt="text" by="20268" sby="160" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="37" it="0" lt="37" ct="0" ts="1606747530313" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-9" dt="text" by="214" sby="216" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="27" it="0" lt="27" ct="0" ts="1606747530333" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-5" dt="text" by="207" sby="208" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="365" it="0" lt="325" ct="0" ts="1606747530009" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-1" dt="text" by="20108" sby="160" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="15" it="0" lt="15" ct="0" ts="1606747530361" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-5" dt="text" by="214" sby="216" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="36" it="0" lt="36" ct="0" ts="1606747530347" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-3" dt="text" by="207" sby="208" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="306" it="0" lt="280" ct="0" ts="1606747530079" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-8" dt="text" by="20268" sby="160" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="24" it="0" lt="24" ct="0" ts="1606747530374" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-1" dt="text" by="207" sby="208" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="64" it="0" lt="64" ct="0" ts="1606747530339" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-6" dt="text" by="207" sby="208" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="21" it="0" lt="20" ct="0" ts="1606747530386" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-8" dt="text" by="207" sby="208" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="354" it="0" lt="295" ct="0" ts="1606747530056" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-7" dt="text" by="20268" sby="160" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="16" it="0" lt="16" ct="0" ts="1606747530398" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-1" dt="text" by="214" sby="216" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="50" it="0" lt="49" ct="0" ts="1606747530384" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-3" dt="text" by="214" sby="216" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="30" it="0" lt="30" ct="0" ts="1606747530410" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-7" dt="text" by="207" sby="208" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="105" it="0" lt="105" ct="0" ts="1606747530350" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-9" dt="text" by="296" sby="184" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="48" it="0" lt="48" ct="0" ts="1606747530407" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-8" dt="text" by="214" sby="216" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="59" it="0" lt="59" ct="0" ts="1606747530403" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-6" dt="text" by="214" sby="216" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="89" it="0" lt="89" ct="0" ts="1606747530376" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-5" dt="text" by="296" sby="184" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="29" it="0" lt="29" ct="0" ts="1606747530441" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-7" dt="text" by="214" sby="216" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="81" it="0" lt="81" ct="0" ts="1606747530414" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-1" dt="text" by="296" sby="184" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="404" it="0" lt="324" ct="0" ts="1606747530098" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-2" dt="text" by="20268" sby="160" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="68" it="0" lt="68" ct="0" ts="1606747530434" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-3" dt="text" by="296" sby="184" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="62" it="0" lt="62" ct="0" ts="1606747530470" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-7" dt="text" by="296" sby="184" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="32" it="0" lt="32" ct="0" ts="1606747530502" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-2" dt="text" by="207" sby="208" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="85" it="0" lt="85" ct="0" ts="1606747530456" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-8" dt="text" by="296" sby="184" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="100" it="0" lt="100" ct="0" ts="1606747530462" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-6" dt="text" by="296" sby="184" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="72" it="0" lt="72" ct="0" ts="1606747530535" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-2" dt="text" by="214" sby="216" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="82" it="0" lt="82" ct="0" ts="1606747530608" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-2" dt="text" by="296" sby="184" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="417" it="0" lt="348" ct="0" ts="1606747530334" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-10" dt="text" by="21215" sby="160" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="410" it="0" lt="349" ct="0" ts="1606747530342" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-4" dt="text" by="21368" sby="160" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="25" it="0" lt="25" ct="0" ts="1606747530753" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-4" dt="text" by="207" sby="208" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="21" it="0" lt="21" ct="0" ts="1606747530779" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-4" dt="text" by="214" sby="216" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="55" it="0" lt="55" ct="0" ts="1606747530752" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-10" dt="text" by="207" sby="208" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="29" it="0" lt="29" ct="0" ts="1606747530801" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-4" dt="text" by="296" sby="184" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="348" it="0" lt="275" ct="0" ts="1606747530542" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-8" dt="text" by="23246" sby="160" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="90" it="0" lt="90" ct="0" ts="1606747530807" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-10" dt="text" by="214" sby="216" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="450" it="0" lt="419" ct="0" ts="1606747530455" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-9" dt="text" by="23093" sby="160" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="23" it="0" lt="23" ct="0" ts="1606747530890" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-8" dt="text" by="207" sby="208" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="26" it="0" lt="26" ct="0" ts="1606747530906" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-9" dt="text" by="207" sby="208" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="375" it="0" lt="319" ct="0" ts="1606747530563" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-6" dt="text" by="23246" sby="160" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="450" it="0" lt="406" ct="0" ts="1606747530496" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-1" dt="text" by="23093" sby="160" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="20" it="0" lt="20" ct="0" ts="1606747530938" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-6" dt="text" by="207" sby="208" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="12" it="0" lt="12" ct="0" ts="1606747530946" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-1" dt="text" by="207" sby="208" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="44" it="0" lt="44" ct="0" ts="1606747530914" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-8" dt="text" by="214" sby="216" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="441" it="0" lt="359" ct="0" ts="1606747530533" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-7" dt="text" by="23246" sby="160" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="77" it="0" lt="77" ct="0" ts="1606747530898" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-10" dt="text" by="296" sby="184" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="24" it="0" lt="24" ct="0" ts="1606747530958" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-6" dt="text" by="214" sby="216" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="16" it="0" lt="16" ct="0" ts="1606747530974" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-7" dt="text" by="207" sby="208" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="39" it="0" lt="39" ct="0" ts="1606747530959" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-1" dt="text" by="214" sby="216" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="28" it="0" lt="28" ct="0" ts="1606747530991" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-7" dt="text" by="214" sby="216" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="336" it="0" lt="279" ct="0" ts="1606747530691" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-2" dt="text" by="23406" sby="160" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="535" it="0" lt="456" ct="0" ts="1606747530502" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-3" dt="text" by="23246" sby="160" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="17" it="0" lt="17" ct="0" ts="1606747531027" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-2" dt="text" by="207" sby="208" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="118" it="0" lt="118" ct="0" ts="1606747530932" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-9" dt="text" by="214" sby="216" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="25" it="0" lt="25" ct="0" ts="1606747531045" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-2" dt="text" by="214" sby="216" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="88" it="0" lt="88" ct="0" ts="1606747530982" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-6" dt="text" by="296" sby="184" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="52" it="0" lt="52" ct="0" ts="1606747531020" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-7" dt="text" by="296" sby="184" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="98" it="0" lt="98" ct="0" ts="1606747530999" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-1" dt="text" by="296" sby="184" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="136" it="0" lt="136" ct="0" ts="1606747530962" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-8" dt="text" by="296" sby="184" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="62" it="0" lt="62" ct="0" ts="1606747531038" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-3" dt="text" by="207" sby="208" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="643" it="0" lt="493" ct="0" ts="1606747530465" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-5" dt="text" by="23093" sby="160" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="25" it="0" lt="25" ct="0" ts="1606747531109" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-5" dt="text" by="207" sby="208" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="38" it="0" lt="38" ct="0" ts="1606747531100" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-3" dt="text" by="214" sby="216" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="74" it="0" lt="74" ct="0" ts="1606747531070" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-2" dt="text" by="296" sby="184" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="103" it="0" lt="103" ct="0" ts="1606747531134" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-5" dt="text" by="214" sby="216" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="192" it="0" lt="192" ct="0" ts="1606747531050" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-9" dt="text" by="296" sby="184" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="125" it="0" lt="125" ct="0" ts="1606747531138" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-3" dt="text" by="296" sby="184" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="45" it="0" lt="45" ct="0" ts="1606747531238" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-5" dt="text" by="296" sby="184" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="333" it="0" lt="242" ct="0" ts="1606747530976" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-10" dt="text" by="25124" sby="160" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="32" it="0" lt="32" ct="0" ts="1606747531310" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-10" dt="text" by="207" sby="208" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="25" it="0" lt="25" ct="0" ts="1606747531343" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-10" dt="text" by="214" sby="216" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="559" it="0" lt="489" ct="0" ts="1606747530831" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-4" dt="text" by="23872" sby="160" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="32" it="0" lt="32" ct="0" ts="1606747531391" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-4" dt="text" by="207" sby="208" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="12" it="0" lt="12" ct="0" ts="1606747531424" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-4" dt="text" by="214" sby="216" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="86" it="0" lt="86" ct="0" ts="1606747531368" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-10" dt="text" by="296" sby="184" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="402" it="0" lt="334" ct="0" ts="1606747531072" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-7" dt="text" by="26063" sby="160" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="9" it="0" lt="9" ct="0" ts="1606747531474" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-7" dt="text" by="207" sby="208" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="390" it="0" lt="268" ct="0" ts="1606747531098" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-8" dt="text" by="26063" sby="160" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="59" it="0" lt="59" ct="0" ts="1606747531436" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-4" dt="text" by="296" sby="184" ng="10" na="10">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="354" it="0" lt="306" ct="0" ts="1606747531144" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-2" dt="text" by="26376" sby="160" ng="9" na="9">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="22" it="0" lt="22" ct="0" ts="1606747531483" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-7" dt="text" by="214" sby="216" ng="9" na="9">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="436" it="0" lt="312" ct="0" ts="1606747531071" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-6" dt="text" by="26063" sby="160" ng="9" na="9">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="277" it="0" lt="219" ct="0" ts="1606747531242" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-9" dt="text" by="26536" sby="160" ng="9" na="9">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="34" it="0" lt="34" ct="0" ts="1606747531498" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-2" dt="text" by="207" sby="208" ng="9" na="9">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="13" it="0" lt="13" ct="0" ts="1606747531520" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-9" dt="text" by="207" sby="208" ng="9" na="9">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="50" it="0" lt="50" ct="0" ts="1606747531488" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-8" dt="text" by="207" sby="208" ng="9" na="9">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="450" it="0" lt="346" ct="0" ts="1606747531098" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-1" dt="text" by="26376" sby="160" ng="9" na="9">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="42" it="0" lt="42" ct="0" ts="1606747531507" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-6" dt="text" by="207" sby="208" ng="9" na="9">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="37" it="0" lt="37" ct="0" ts="1606747531533" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-2" dt="text" by="214" sby="216" ng="9" na="9">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="23" it="0" lt="23" ct="0" ts="1606747531548" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-1" dt="text" by="207" sby="208" ng="9" na="9">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="46" it="0" lt="46" ct="0" ts="1606747531534" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-9" dt="text" by="214" sby="216" ng="9" na="9">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="43" it="0" lt="43" ct="0" ts="1606747531538" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-8" dt="text" by="214" sby="216" ng="9" na="9">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="49" it="0" lt="49" ct="0" ts="1606747531549" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-6" dt="text" by="214" sby="216" ng="9" na="9">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="40" it="0" lt="40" ct="0" ts="1606747531572" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-1" dt="text" by="214" sby="216" ng="9" na="9">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="108" it="0" lt="108" ct="0" ts="1606747531505" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-7" dt="text" by="296" sby="184" ng="9" na="9">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="331" it="0" lt="218" ct="0" ts="1606747531283" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-5" dt="text" by="26536" sby="160" ng="8" na="8">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="371" it="0" lt="290" ct="0" ts="1606747531263" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-3" dt="text" by="26536" sby="160" ng="8" na="8">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="69" it="0" lt="69" ct="0" ts="1606747531570" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-2" dt="text" by="296" sby="184" ng="8" na="8">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="65" it="0" lt="65" ct="0" ts="1606747531580" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-9" dt="text" by="296" sby="184" ng="7" na="7">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="65" it="0" lt="65" ct="0" ts="1606747531581" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-8" dt="text" by="296" sby="184" ng="7" na="7">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="32" it="0" lt="32" ct="0" ts="1606747531614" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-5" dt="text" by="207" sby="208" ng="6" na="6">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="35" it="0" lt="35" ct="0" ts="1606747531612" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-1" dt="text" by="296" sby="184" ng="6" na="6">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="18" it="0" lt="18" ct="0" ts="1606747531634" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-3" dt="text" by="207" sby="208" ng="6" na="6">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="22" it="0" lt="22" ct="0" ts="1606747531652" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-3" dt="text" by="214" sby="216" ng="6" na="6">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="36" it="0" lt="36" ct="0" ts="1606747531647" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-5" dt="text" by="214" sby="216" ng="6" na="6">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="86" it="0" lt="86" ct="0" ts="1606747531598" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-6" dt="text" by="296" sby="184" ng="6" na="6">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="246" it="0" lt="192" ct="0" ts="1606747531455" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-10" dt="text" by="27162" sby="160" ng="6" na="6">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="8" it="0" lt="8" ct="0" ts="1606747531701" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-10" dt="text" by="207" sby="208" ng="6" na="6">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="64" it="0" lt="64" ct="0" ts="1606747531675" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-3" dt="text" by="296" sby="184" ng="6" na="6">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="38" it="0" lt="37" ct="0" ts="1606747531709" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-10" dt="text" by="214" sby="216" ng="6" na="6">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="67" it="0" lt="67" ct="0" ts="1606747531684" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-5" dt="text" by="296" sby="184" ng="6" na="6">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="28" it="0" lt="28" ct="0" ts="1606747531747" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-10" dt="text" by="296" sby="184" ng="6" na="6">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="194" it="0" lt="153" ct="0" ts="1606747531646" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-8" dt="text" by="29354" sby="160" ng="5" na="5">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="8" it="0" lt="7" ct="0" ts="1606747531841" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-8" dt="text" by="207" sby="208" ng="5" na="5">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="11" it="0" lt="11" ct="0" ts="1606747531849" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-8" dt="text" by="214" sby="216" ng="5" na="5">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="213" it="0" lt="162" ct="0" ts="1606747531648" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-1" dt="text" by="29354" sby="160" ng="5" na="5">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="14" it="0" lt="14" ct="0" ts="1606747531861" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-1" dt="text" by="207" sby="208" ng="5" na="5">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="10" it="0" lt="10" ct="0" ts="1606747531875" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-1" dt="text" by="214" sby="216" ng="5" na="5">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="39" it="0" lt="39" ct="0" ts="1606747531860" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-8" dt="text" by="296" sby="184" ng="5" na="5">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="16" it="0" lt="16" ct="0" ts="1606747531885" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-1" dt="text" by="296" sby="184" ng="4" na="4">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="158" it="0" lt="78" ct="0" ts="1606747531752" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-5" dt="text" by="29987" sby="160" ng="3" na="3">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="8" it="0" lt="7" ct="0" ts="1606747531911" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-5" dt="text" by="207" sby="208" ng="3" na="3">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="8" it="0" lt="8" ct="0" ts="1606747531919" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-5" dt="text" by="214" sby="216" ng="3" na="3">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="11" it="0" lt="11" ct="0" ts="1606747531927" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-5" dt="text" by="296" sby="184" ng="3" na="3">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="266" it="0" lt="174" ct="0" ts="1606747531685" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-6" dt="text" by="29674" sby="160" ng="2" na="2">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="213" it="0" lt="106" ct="0" ts="1606747531740" s="true" lb="Get Empleado" rc="200" rm="" tn="Usuarios 1-3" dt="text" by="29987" sby="160" ng="2" na="2">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="13" it="0" lt="13" ct="0" ts="1606747531954" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-3" dt="text" by="207" sby="208" ng="2" na="2">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="24" it="0" lt="24" ct="0" ts="1606747531952" s="true" lb="Post Empleado" rc="200" rm="" tn="Usuarios 1-6" dt="text" by="207" sby="208" ng="2" na="2">
+  <java.net.URL>http://localhost:8585/employees</java.net.URL>
+</httpSample>
+<httpSample t="14" it="0" lt="14" ct="0" ts="1606747531977" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-6" dt="text" by="214" sby="216" ng="2" na="2">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="25" it="0" lt="25" ct="0" ts="1606747531968" s="true" lb="Put Empleados" rc="200" rm="" tn="Usuarios 1-3" dt="text" by="214" sby="216" ng="2" na="2">
+  <java.net.URL>http://localhost:8585/employees/0</java.net.URL>
+</httpSample>
+<httpSample t="20" it="0" lt="20" ct="0" ts="1606747531992" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-6" dt="text" by="296" sby="184" ng="2" na="2">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+<httpSample t="22" it="0" lt="22" ct="0" ts="1606747531994" s="false" lb="Delete Empleado" rc="500" rm="" tn="Usuarios 1-3" dt="text" by="296" sby="184" ng="1" na="1">
+  <java.net.URL>http://localhost:8585/employees/1</java.net.URL>
+</httpSample>
+
 </testResults>
